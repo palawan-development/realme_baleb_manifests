@@ -16,7 +16,7 @@ repo init \
 
 **Clone manifest**
 ```bash
-git clone https://github.com/palawan-development/realme_baleb_manifests.git .repo/local_manifests \
+git clone https://github.com/palawan-development/realme_bale-b_manifests.git .repo/local_manifests \
 -b <specified-branch>
 ```
 
